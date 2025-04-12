@@ -1,4 +1,4 @@
-# NoteApp - Kotlin ile Not Alma Uygulaması (Room Veritabanı Kullanılarak)
+# NoteApp - Kotlin ile Not Alma Uygulaması
 
 Bu proje, Android platformu için Kotlin programlama dili kullanılarak geliştirilmiş basit bir not alma uygulamasıdır. Veri depolama çözümü olarak Android Room Persistence Library kullanılmıştır.
 
